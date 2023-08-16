@@ -1,4 +1,5 @@
-== Project has left GitHub ==
+Project has left GitHub
+-----------------------
 
 It is now here: [https://codeberg.org/a-j-wood/jmba](https://codeberg.org/a-j-wood/jmba)
 
@@ -17,9 +18,9 @@ this project's code in Copilot.
 
 
 Introduction
-************
+------------
 
-This is the README for `jmba', a junk mail buffering agent.  This program is
+This is the README for "jmba", a junk mail buffering agent.  This program is
 designed to queue email until the sender's email address has been verified,
 at which point the original email is delivered.
 
@@ -37,44 +38,44 @@ sender won't work and therefore JMBA will never receive a response to its
 
 
 Requirements
-************
+------------
 
-You will need `procmail' installed to use this package.  `qsf' is
+You will need "`procmail`" installed to use this package.  "`qsf`" is
 recommended.
 
 
 Documentation
-*************
+-------------
 
 A manual page is included in this distribution.  If you prefer plain text,
-then look at `doc/quickref.txt' for a text version.
+then look at "doc/quickref.txt" for a text version.
 
 
 Compilation
-***********
+-----------
 
-To compile the package, type "sh ./configure", which should generate a
-Makefile for your system.  You may then type "make" to build everything.
+To compile the package, type "`sh ./configure`", which should generate a
+Makefile for your system.  You may then type "`make`" to build everything.
 
-See the file `doc/INSTALL' for more about the `configure' script.
+See the file "doc/INSTALL" for more about the "configure" script.
 
-Developers note that you can do "./configure --enable-debugging" to cause
-debugging support to be built in.  Also note that doing "make index" will
-generate an HTML code index (using "ctags" and "cproto"); this index lists
+Developers note that you can do "`./configure --enable-debugging`" to cause
+debugging support to be built in.  Also note that doing "`make index`" will
+generate an HTML code index (using "`ctags`" and "`cproto`"); this index lists
 all files used, all functions defined, and all TODOs marked in the code.
 
 
 Author
-******
+------
 
 This package is copyright (C) 2005 Andrew Wood, and is being distributed
 under the terms of the Artistic License and other licenses.  For more
-details, see the file `doc/COPYING'.
+details, see the file "doc/COPYING".
 
 You can contact me by using the contact form on my web page at
 http://www.ivarch.com/.
 
-The `jmba' home page is at:
+The "jmba" home page is at:
 
   http://www.ivarch.com/programs/jmba.shtml
 
@@ -82,10 +83,7 @@ The latest version can always be found here.
 
 Credit is also due to:
 
-  Ondrej Suchy
-    - provided Czech (cs_CZ) translation
-
-  Nick Rosier
-    - suggested logging
+ * Ondrej Suchy - provided Czech (cs_CZ) translation
+ * Nick Rosier - suggested logging
 
 -----------------------------------------------------------------------------
