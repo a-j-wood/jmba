@@ -4,7 +4,7 @@ Project has left GitHub
 It is now here: [https://codeberg.org/a-j-wood/jmba](https://codeberg.org/a-j-wood/jmba)
 
 This project was briefly hosted on GitHub.  GitHub is a proprietary,
-trade-secret system that is not Free and Open Souce Software (FOSS).
+trade-secret system that is not Free and Open Source Software (FOSS).
 
 Read about the [Give up GitHub](https://GiveUpGitHub.org) campaign from
 [the Software Freedom Conservancy](https://sfconservancy.org) to understand
